@@ -1,5 +1,4 @@
 # Mathew C. Simenc CV Supporting Materials
-![]("https://github.com/mcsimenc/cvmaterials.io/blob/master/doc/Coursera_Certificate_v1-9706361910114_BioinformaticsAlgorithmsI_first_offering.pdf")
-![]("https://github.com/mcsimenc/cvmaterials.io/blob/master/doc/Coursera_Certificate_v1-9714701910114_DiscreteOptimization.pdf")
-![]("https://github.com/mcsimenc/cvmaterials.io/blob/master/doc/Coursera_Certificate_v1-9717601910114_ComputingForDataAnalysis.pdf")
-![](https://github.com/mcsimenc/cvmaterials.io/blob/master/doc/test.png)
+![]("doc/Coursera_Certificate_v1-9706361910114_BioinformaticsAlgorithmsI_first_offering.pdf")
+![]("doc/Coursera_Certificate_v1-9714701910114_DiscreteOptimization.pdf")
+![]("doc/Coursera_Certificate_v1-9717601910114_ComputingForDataAnalysis.pdf")
